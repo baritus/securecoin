@@ -68,7 +68,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Securecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw Quarkcoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <translation>Dit zijn uw Securecoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Securecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Quarkcoinadres bezit</translation>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Securecoin bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,7 +108,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Securecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Quarkcoinadres het bericht heeft ondertekend.</translation>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Securecoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Securecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Quarkcoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw quarkcoins verzendt.</translation>
+        <translation>Dit zijn uw Securecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw securecoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -249,7 +249,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR QUARKCOINS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW QUARKCOINS VERLIEZEN&lt;/b&gt;!</translation>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW SECURECOINS VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -276,7 +276,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-56"/>
         <source>Securecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your quarkcoins from being stolen by malware infecting your computer.</source>
-        <translation>Securecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw quarkcoins stelen.</translation>
+        <translation>Securecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw securecoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -420,7 +420,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-347"/>
         <source>Send coins to a Securecoin address</source>
-        <translation>Verstuur munten naar een Quarkcoinadres</translation>
+        <translation>Verstuur munten naar een Securecoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -501,12 +501,12 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+7"/>
         <source>Sign messages with your Securecoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Quarkcoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <translation>Onderteken berichten met uw Securecoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Securecoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Quarkcoinadressen</translation>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Securecoinadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -542,7 +542,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Securecoin network</source>
-        <translation><numerusform>%n actieve connectie naar Quarkcoinnetwerk</numerusform><numerusform>%n actieve connecties naar Quarkcoinnetwerk</numerusform></translation>
+        <translation><numerusform>%n actieve connectie naar Securecoinnetwerk</numerusform><numerusform>%n actieve connecties naar Securecoinnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Quarkcoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Securecoinnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -657,7 +657,7 @@ Adres: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Securecoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Quarkcoinadres of misvormde URI-parameters.</translation>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Securecoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -738,7 +738,7 @@ Adres: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Securecoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Quarkcoinadres</translation>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Securecoinadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -945,7 +945,7 @@ Adres: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Securecoin addresses in the transaction list or not.</source>
-        <translation>Of Quarkcoinadressen getoond worden in de transactielijst</translation>
+        <translation>Of Securecoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1016,7 +1016,7 @@ Adres: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Securecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Quarkcoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Securecoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1220,7 +1220,7 @@ Adres: %4
     <message>
         <location line="+7"/>
         <source>Show the Securecoin-Qt help message to get a list with possible Securecoin command-line options.</source>
-        <translation>Toon het QuarkcoinQt-hulpbericht voor een lijst met mogelijke Securecoin commandoregel-opties.</translation>
+        <translation>Toon het SecurecoinQt-hulpbericht voor een lijst met mogelijke Securecoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,7 +1255,7 @@ Adres: %4
     <message>
         <location line="+7"/>
         <source>Open the Securecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Quarkcoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <translation>Open het Securecoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1449,7 +1449,7 @@ Adres: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Securecoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Vul een Quarkcoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <translation>Vul een Securecoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adres: %4
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Securecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Quarkcoinadres bezit</translation>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Securecoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1550,7 +1550,7 @@ Adres: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Securecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Quarkcoinadres het bericht heeft ondertekend.</translation>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Securecoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,7 +1566,7 @@ Adres: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Securecoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Vul een Quarkcoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <translation>Vul een Securecoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2188,7 +2188,7 @@ Adres: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Securecoin version</source>
-        <translation>Quarkcoinversie</translation>
+        <translation>Securecoinversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,7 +2198,7 @@ Adres: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or quarkcoind</source>
-        <translation>Stuur commando naar -server of quarkcoind</translation>
+        <translation>Stuur commando naar -server of securecoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2224,7 +2224,7 @@ Adres: %4
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: quarkcoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: quarkcoind.pid)
+        <translation>Specificeer pid-bestand (standaard: securecoind.pid)
 </translation>
     </message>
     <message>
@@ -2312,7 +2312,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Securecoin Alert&quot; admin@f
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=quarkcoinrpc
+rpcuser=securecoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
